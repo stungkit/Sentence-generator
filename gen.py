@@ -15,5 +15,5 @@ while True:
     d = random.choice(end)
     b = random.choice(middle)
     c = random.choice(middle2)
-    post = a + b + c + d
-    print(post)
+    sentence = a + b + c + d
+    print(sentence)

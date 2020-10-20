@@ -1,2 +1,2 @@
-# Bot-Builder
-Python simple bot maker. Just for funny results, don't expect a top tier bot from this project!
+# Sentence-generator
+A generator written in python that allows you to give it a list of words for the Start, End, Middle. It will then pick random words out of those and create a sentence out of them.

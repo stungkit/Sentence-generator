@@ -5,4 +5,4 @@ A generator written in python that allows you to give it a list of words for the
  ### Running
  If not obvious run "$ python gen.py"
 
- the order of words goes Start, Middle, Middle2, End.
+ the order of words is Start, Middle, Middle2, End.

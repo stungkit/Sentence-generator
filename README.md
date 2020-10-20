@@ -4,5 +4,5 @@ A generator written in python that allows you to give it a list of words for the
 
  ### Running
  If not obvious run "$ python gen.py"
- 
- If not obvious when your generating, the order of words goes Start, Middle, Middle2, End.
+
+ the order of words goes Start, Middle, Middle2, End.

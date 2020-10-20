@@ -8,10 +8,12 @@ A generator written in python that allows you to give it a list of words for the
   Replace these with your own words! (When adding new words remember to put "," after all your words!)
   
   
-  If not obvious when your generating the order of words goes Start, Middle, Middle2, End.
+
   
   
   If you dont want middle2 then comment out `middle2 = ["foo2 ", "foo3 " ]` and remove c from `post = a + b + c + d`
   
  ### Running
  If not obvious run "$ python gen.py"
+ 
+ If not obvious when your generating, the order of words goes Start, Middle, Middle2, End.

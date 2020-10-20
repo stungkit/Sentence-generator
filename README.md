@@ -9,3 +9,5 @@ A generator written in python that allows you to give it a list of words for the
  If not obvious run "$ python gen.py"
 
  the order of words is Start, Middle, Middle2, End.
+
+#### Run it on repl.it :) https://repl.it/@Dylstructor/AuthenticUnsteadyFont#main.py

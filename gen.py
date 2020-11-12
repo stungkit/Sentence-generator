@@ -3,7 +3,7 @@
 import random
 import time
 # Put words here (._.)
-start  =  ["example " "example2 "]
+start  =  ["example ", "example2 "]
 middle = ["example3 ", "foo "]
 middle2 = ["foo2 ", "foo3 " ]
 end = ["foo4", "foo5"]
